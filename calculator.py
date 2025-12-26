@@ -1,3 +1,5 @@
+#Author: sanket_kulkarni
+
 class calculator:
     def add(self,a,b):
         return a+b
@@ -16,3 +18,4 @@ print(obj.subtract(10,5))     # Output: 5
 print(obj.multiply(10,5))     # Output: 50
 print(obj.divide(10,5))       # Output: 2.0
 print(obj.divide(10,0))
+
