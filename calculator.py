@@ -12,3 +12,6 @@ class calculator:
     
 obj = calculator()
 print(obj.add(10,5))          # Output: 15
+print(obj.subtract(10,5))     # Output: 5
+print(obj.multiply(10,5))     # Output: 50
+print(obj.divide(10,5))       # Output: 2.0
